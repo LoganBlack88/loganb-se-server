@@ -123,8 +123,3 @@ Adds a "Flight Seat" for the small grid blocks.
 Basically a cleaner, lag-friendlier way of getting rid of your stone. Turns it to "dust" (deletes it) rather than throwing it on the ground. (Should help with server lag a little since the game doesn't have to track those assets.) 
 
 * https://steamcommunity.com/sharedfiles/filedetails/?id=1222032427 
-
-#### S-Lights-DX11:  
-Adds more options for lights in the game. Basically just cosmetic.  
-
-*  https://steamcommunity.com/sharedfiles/filedetails/?id=377440133&searchtext=lights
